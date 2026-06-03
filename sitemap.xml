@@ -1,145 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- ═══════════════════════════════════════════════ -->
-  <!-- LIVE PAGES — Phase 1 Music Core (in progress)  -->
-  <!-- Last updated: 2 June 2026 (WIB)                 -->
-  <!-- ═══════════════════════════════════════════════ -->
-
   <url>
     <loc>https://spotlightmusicstore.com/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
+    <lastmod>2026-06-03T08:00:00+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/"/>
   </url>
-
-  <url>
-    <loc>https://spotlightmusicstore.com/about/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/about/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/about/"/>
-  </url>
-
-  <url>
-    <loc>https://spotlightmusicstore.com/contact/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/contact/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/contact/"/>
-  </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/music-store/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-06-02T19:00:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/music-store/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/music-store/"/>
   </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/performing-arts/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
+    <lastmod>2026-06-02T19:30:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/performing-arts/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/performing-arts/"/>
   </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/live-music/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
+    <lastmod>2026-06-02T20:00:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/live-music/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/live-music/"/>
   </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/music-culture/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
+    <lastmod>2026-06-02T22:30:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/music-culture/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/music-culture/"/>
   </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/artists/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-06-02T21:00:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/artists/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/artists/"/>
   </url>
-
+  <url>
+    <loc>https://spotlightmusicstore.com/bands/</loc>
+    <lastmod>2026-06-03T20:10:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/bands/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/bands/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/concerts/</loc>
+    <lastmod>2026-06-03T20:10:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/concerts/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/concerts/"/>
+  </url>
   <url>
     <loc>https://spotlightmusicstore.com/music-production/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-06-02T21:15:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/music-production/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/music-production/"/>
   </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/music-audio/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-06-02T21:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/music-audio/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/music-audio/"/>
   </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/recording/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-06-02T21:45:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/recording/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/recording/"/>
   </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/music-news/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
+    <lastmod>2026-06-03T07:00:00+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/music-news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/music-news/"/>
   </url>
-
+  <url>
+    <loc>https://spotlightmusicstore.com/editorial/</loc>
+    <lastmod>2026-06-03T20:10:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/editorial/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/editorial/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/about/</loc>
+    <lastmod>2026-06-02T18:00:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/about/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/contact/</loc>
+    <lastmod>2026-06-02T18:10:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/contact/"/>
+  </url>
   <url>
     <loc>https://spotlightmusicstore.com/privacy/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
+    <lastmod>2026-06-02T17:00:00+07:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/privacy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/privacy/"/>
   </url>
-
   <url>
     <loc>https://spotlightmusicstore.com/terms/</loc>
-    <lastmod>2026-06-02T04:05:00+07:00</lastmod>
+    <lastmod>2026-06-02T17:10:00+07:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/terms/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/terms/"/>
   </url>
-
-  <!-- ═══════════════════════════════════════════════ -->
-  <!-- NEXT IN PHASE 1 (will be added when published)  -->
-  <!--   /bands/                                       -->
-  <!--   /concerts/                                    -->
-  <!--   /editorial/                                   -->
-  <!-- See sitemap-full-template.xml for entries       -->
-  <!-- ═══════════════════════════════════════════════ -->
-
 </urlset>
