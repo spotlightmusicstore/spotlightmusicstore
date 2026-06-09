@@ -522,4 +522,180 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/realtime-media/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/realtime-media/"/>
   </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/immersive-content/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/immersive-content/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/immersive-content/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/entertainment-platforms/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/entertainment-platforms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/entertainment-platforms/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/entertainment-communities/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/entertainment-communities/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/entertainment-communities/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/obs-guides/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/obs-guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/obs-guides/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/events/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/events/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/events/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/resources/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/resources/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/resources/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/music-entertainment/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/music-entertainment/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/music-entertainment/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/creator-broadcasting/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/creator-broadcasting/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/creator-broadcasting/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/creator-performance/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/creator-performance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/creator-performance/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/community/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/community/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/community/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/contributors/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/contributors/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/contributors/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/guides/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/guides/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/gaming-audio/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/gaming-audio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/gaming-audio/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/gaming-soundtracks/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/gaming-soundtracks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/gaming-soundtracks/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/spatial-audio/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/spatial-audio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/spatial-audio/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/sound-positioning/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/sound-positioning/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/sound-positioning/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/virtual-surround/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/virtual-surround/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/virtual-surround/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/gaming-headsets/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/gaming-headsets/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/gaming-headsets/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/immersive-audio/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/immersive-audio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/immersive-audio/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/realtime-audio/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/realtime-audio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/realtime-audio/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/competitive-audio/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/competitive-audio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/competitive-audio/"/>
+  </url>
+  <url>
+    <loc>https://spotlightmusicstore.com/creator-audio/</loc>
+    <lastmod>2026-06-10T04:30:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotlightmusicstore.com/creator-audio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotlightmusicstore.com/creator-audio/"/>
+  </url>
 </urlset>
